@@ -1,2 +1,2 @@
 # Food_Order_APP
-Application to order food comfortable ! 
+Application to order food comfortably ! 
